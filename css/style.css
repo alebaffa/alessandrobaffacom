@@ -5,7 +5,7 @@
  * Thanks for MaterializeCSS.com
  */
 
-.default_color{background-color: #2196F3 !important}
+.default_color{background-color: #641254 !important}
 
 .default_color_text{color: #2196F3 !important}
 
@@ -20,7 +20,7 @@
     min-height: 632px;
     max-height: 864px;
     position: relative;
-    background-color: #2196F3;
+    background-color: #641254;
 }
 
 #nav_f{
@@ -55,7 +55,7 @@
 .in{font-weight: 400 !important; font-style: normal !important;}
 
 .promo i {
-    color: #2196F3;
+    color: #641254;
     font-size: 7rem;
     display: block;
 }
